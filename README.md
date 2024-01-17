@@ -1,2 +1,3 @@
 # Rob-The-Bank
-Bank robbing game I coded in Grade 11
+Choose your adventure type bank robbing game.
+Two endings available.
